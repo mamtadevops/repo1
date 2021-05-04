@@ -1,1 +1,2 @@
 Hi this is line 2 of file 2.txt2 of file 2.txt
+HI This is new line to check git stash.
